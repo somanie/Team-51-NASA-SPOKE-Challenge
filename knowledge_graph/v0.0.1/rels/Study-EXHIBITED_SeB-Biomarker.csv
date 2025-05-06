@@ -1,0 +1,10 @@
+from,to,fold_change,p_value
+OSD-557,OSD-557_homocysteine,2.54,0.05
+OSD-557,OSD-557_cystathionine,1.77,0.05
+OSD-557,OSD-557_methylcitric_acid,2.43,0.05
+OSD-568,OSD-568_homocysteine,1.45,0.05
+OSD-568,OSD-568_cystathionine,1.85,0.05
+OSD-568,OSD-568_methylcitric_acid,1.43,0.05
+OSD-679,OSD-679_homocysteine,1.52,0.05
+OSD-679,OSD-679_cystathionine,1.91,0.05
+OSD-679,OSD-679_methylcitric_acid,2.59,0.05

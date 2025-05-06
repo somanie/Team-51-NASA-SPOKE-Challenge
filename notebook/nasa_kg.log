@@ -1,0 +1,93 @@
+2025-05-04 14:15:07,467 - INFO - Created 3 Study nodes and 2 Mission nodes
+2025-05-04 14:16:46,541 - INFO - Created 3 Study nodes and 2 Mission nodes
+2025-05-04 14:17:22,706 - INFO - Created 3 Study nodes and 2 Mission nodes
+2025-05-04 14:18:25,174 - INFO - Created 9 MGene nodes, 3 Gene nodes, and 9 orthology relationships
+2025-05-04 14:21:54,807 - INFO - Created 3 Study nodes and 2 Mission nodes
+2025-05-04 14:21:54,830 - INFO - Created 9 MGene nodes, 3 Gene nodes, and 9 orthology relationships
+2025-05-04 14:24:46,300 - INFO - Created 15 findings, 9 biomarkers, and 9 environmental factors
+2025-05-04 14:30:13,297 - INFO - Created 3 Study nodes and 2 Mission nodes
+2025-05-04 14:49:10,358 - INFO - KG utilities ready - directories created
+2025-05-04 15:06:51,843 - INFO - Created 9 MGene nodes, 3 Gene nodes, and 9 orthology relationships
+2025-05-04 15:22:00,914 - INFO - KG utilities ready - directories created
+2025-05-04 15:23:03,654 - INFO - Created 9 MGene nodes, 3 Gene nodes, and 9 orthology relationships
+2025-05-04 15:33:01,110 - INFO - KG utilities ready - directories created
+2025-05-04 15:33:54,497 - INFO - KG utilities ready - directories created
+2025-05-04 15:34:02,021 - INFO - Created 9 MGene nodes, 3 Gene nodes, and 9 orthology relationships
+2025-05-04 15:39:06,452 - INFO - KG utilities ready - directories created
+2025-05-04 15:39:33,253 - INFO - Saved 3 rows to C:\Users\QUCOON\Documents\Chisom_Personal_Doc\knowledge_graph\v0.0.3\nodes\Study.csv
+2025-05-04 15:39:33,266 - INFO - Saved 2 rows to C:\Users\QUCOON\Documents\Chisom_Personal_Doc\knowledge_graph\v0.0.3\nodes\Mission.csv
+2025-05-04 15:39:33,266 - INFO - Study and Mission nodes created successfully
+2025-05-04 15:44:07,260 - INFO - KG utilities ready - directories created
+2025-05-04 15:44:12,346 - INFO - Saved 3 rows to C:\Users\QUCOON\Documents\Chisom_Personal_Doc\knowledge_graph\v0.0.1\nodes\Study.csv
+2025-05-04 15:44:12,354 - INFO - Saved 2 rows to C:\Users\QUCOON\Documents\Chisom_Personal_Doc\knowledge_graph\v0.0.1\nodes\Mission.csv
+2025-05-04 15:44:12,358 - INFO - Study and Mission nodes created successfully
+2025-05-04 15:45:30,480 - INFO - KG utilities ready - directories created
+2025-05-04 15:45:34,580 - INFO - Saved 3 rows to C:\Users\QUCOON\Documents\Chisom_Personal_Doc\knowledge_graph\v0.0.1\nodes\Study.csv
+2025-05-04 15:45:34,588 - INFO - Saved 2 rows to C:\Users\QUCOON\Documents\Chisom_Personal_Doc\knowledge_graph\v0.0.1\nodes\Mission.csv
+2025-05-04 15:45:34,593 - INFO - Study and Mission nodes created successfully
+2025-05-04 15:47:00,023 - INFO - KG utilities ready - directories created
+2025-05-04 15:47:02,492 - INFO - Saved 3 rows to C:\Users\QUCOON\Documents\Chisom_Personal_Doc\knowledge_graph\v0.0.1\nodes\Study.csv
+2025-05-04 15:47:02,500 - INFO - Saved 2 rows to C:\Users\QUCOON\Documents\Chisom_Personal_Doc\knowledge_graph\v0.0.1\nodes\Mission.csv
+2025-05-04 15:47:02,500 - INFO - Study and Mission nodes created successfully
+2025-05-04 15:50:20,120 - INFO - KG utilities ready - directories created
+2025-05-04 15:50:22,037 - INFO - Saved 3 rows to C:\Users\QUCOON\Documents\Chisom_Personal_Doc\knowledge_graph\v0.0.1\nodes\Study.csv
+2025-05-04 15:50:22,053 - INFO - Saved 2 rows to C:\Users\QUCOON\Documents\Chisom_Personal_Doc\knowledge_graph\v0.0.1\nodes\Mission.csv
+2025-05-04 15:50:22,053 - INFO - Study and Mission nodes created successfully
+2025-05-04 15:51:20,659 - INFO - KG utilities ready - directories created
+2025-05-04 15:51:23,445 - INFO - Saved 3 rows to C:\Users\QUCOON\Documents\Chisom_Personal_Doc\NASA_KnowHax_2025\notebook\knowledge_graph\v0.0.1\nodes\Study.csv
+2025-05-04 15:51:23,456 - INFO - Saved 2 rows to C:\Users\QUCOON\Documents\Chisom_Personal_Doc\NASA_KnowHax_2025\notebook\knowledge_graph\v0.0.1\nodes\Mission.csv
+2025-05-04 15:51:23,456 - INFO - Study and Mission nodes created successfully
+2025-05-04 15:52:19,088 - INFO - KG utilities ready - directories created
+2025-05-04 15:52:23,030 - INFO - Saved 3 rows to C:\Users\QUCOON\Documents\Chisom_Personal_Doc\NASA_KnowHax_2025\knowledge_graph\v0.0.1\nodes\Study.csv
+2025-05-04 15:52:23,038 - INFO - Saved 2 rows to C:\Users\QUCOON\Documents\Chisom_Personal_Doc\NASA_KnowHax_2025\knowledge_graph\v0.0.1\nodes\Mission.csv
+2025-05-04 15:52:23,041 - INFO - Study and Mission nodes created successfully
+2025-05-04 15:56:26,682 - INFO - KG utilities ready - directories created
+2025-05-04 15:56:28,022 - INFO - Saved 3 rows to C:\Users\QUCOON\Documents\Chisom_Personal_Doc\NASA_KnowHax_2025\knowledge_graph\v0.0.1\nodes\Study.csv
+2025-05-04 15:56:28,028 - INFO - Saved 2 rows to C:\Users\QUCOON\Documents\Chisom_Personal_Doc\NASA_KnowHax_2025\knowledge_graph\v0.0.1\nodes\Mission.csv
+2025-05-04 15:56:28,028 - INFO - Study and Mission nodes created successfully
+2025-05-04 16:01:05,924 - INFO - Utilities saved and ready for use in other notebooks
+2025-05-04 16:01:45,082 - INFO - Saved 3 rows to knowledge_graph\v0.0.3\nodes\Study.csv
+2025-05-04 16:01:45,091 - INFO - Saved 2 rows to knowledge_graph\v0.0.3\nodes\Mission.csv
+2025-05-04 16:03:07,378 - INFO - Saved 3 rows to knowledge_graph\v0.0.3\nodes\Study.csv
+2025-05-04 16:03:07,389 - INFO - Saved 2 rows to knowledge_graph\v0.0.3\nodes\Mission.csv
+2025-05-04 16:03:09,820 - INFO - Utilities saved and ready for use in other notebooks, Study and Mission nodes created successfully
+2025-05-04 16:04:45,363 - INFO - Saved 3 rows to knowledge_graph\v0.0.3\nodes\Study.csv
+2025-05-04 16:04:45,372 - INFO - Saved 2 rows to knowledge_graph\v0.0.3\nodes\Mission.csv
+2025-05-04 16:04:46,473 - INFO - Utilities saved and ready for use in other notebooks, Study and Mission nodes created successfully
+2025-05-04 16:14:15,678 - INFO - Creating knowledge graph at: C:\Users\QUCOON\Documents\Chisom_Personal_Doc\NASA_KnowHax_2025\knowledge_graph
+2025-05-04 16:14:15,698 - INFO - Saved 3 rows to C:\Users\QUCOON\Documents\Chisom_Personal_Doc\NASA_KnowHax_2025\notebook\..\knowledge_graph\v0.0.3\nodes\Study.csv
+2025-05-04 16:14:15,703 - INFO - Saved 2 rows to C:\Users\QUCOON\Documents\Chisom_Personal_Doc\NASA_KnowHax_2025\notebook\..\knowledge_graph\v0.0.3\nodes\Mission.csv
+2025-05-04 16:16:45,989 - INFO - Creating knowledge graph at: C:\Users\QUCOON\Documents\Chisom_Personal_Doc\NASA_KnowHax_2025\knowledge_graph
+2025-05-04 16:16:45,995 - INFO - Saved 3 rows to C:\Users\QUCOON\Documents\Chisom_Personal_Doc\NASA_KnowHax_2025\knowledge_graph\v0.0.3\nodes\Study.csv
+2025-05-04 16:16:46,005 - INFO - Saved 2 rows to C:\Users\QUCOON\Documents\Chisom_Personal_Doc\NASA_KnowHax_2025\knowledge_graph\v0.0.3\nodes\Mission.csv
+2025-05-04 16:16:54,317 - INFO - Utilities saved and ready for use in other notebooks, Study and Mission nodes created successfully
+2025-05-04 16:29:05,868 - INFO - Saved 9 rows to C:\Users\QUCOON\Documents\Chisom_Personal_Doc\knowledge_graph\v0.0.3\nodes\MGene.csv
+2025-05-04 16:29:05,876 - INFO - Saved 3 rows to C:\Users\QUCOON\Documents\Chisom_Personal_Doc\knowledge_graph\v0.0.3\nodes\Gene.csv
+2025-05-04 16:29:05,890 - INFO - Saved 9 rows to C:\Users\QUCOON\Documents\Chisom_Personal_Doc\knowledge_graph\v0.0.3\rels\MGene-IS_ORTHOLOG_MGiG-Gene.csv
+2025-05-04 16:34:18,967 - INFO - Saved 9 rows to C:\Users\QUCOON\Documents\Chisom_Personal_Doc\knowledge_graph\v0.0.3\nodes\MGene.csv
+2025-05-04 16:34:18,976 - INFO - Saved 3 rows to C:\Users\QUCOON\Documents\Chisom_Personal_Doc\knowledge_graph\v0.0.3\nodes\Gene.csv
+2025-05-04 16:34:18,984 - INFO - Saved 9 rows to C:\Users\QUCOON\Documents\Chisom_Personal_Doc\knowledge_graph\v0.0.3\rels\MGene-IS_ORTHOLOG_MGiG-Gene.csv
+2025-05-04 16:46:19,133 - INFO - Creating knowledge graph at: C:\Users\QUCOON\Documents\Chisom_Personal_Doc\NASA_KnowHax_2025\knowledge_graph
+2025-05-04 16:46:55,755 - INFO - Creating knowledge graph at: C:\Users\QUCOON\Documents\Chisom_Personal_Doc\NASA_KnowHax_2025\knowledge_graph
+2025-05-04 16:47:30,058 - INFO - Creating knowledge graph at: C:\Users\QUCOON\Documents\Chisom_Personal_Doc\NASA_KnowHax_2025\knowledge_graph
+2025-05-04 16:51:06,879 - INFO - Saved 3 rows to C:\Users\QUCOON\Documents\Chisom_Personal_Doc\NASA_KnowHax_2025\knowledge_graph\v0.0.1\nodes\Study.csv
+2025-05-04 16:51:06,885 - INFO - Saved 2 rows to C:\Users\QUCOON\Documents\Chisom_Personal_Doc\NASA_KnowHax_2025\knowledge_graph\v0.0.1\nodes\Mission.csv
+2025-05-04 16:51:13,345 - INFO - Utilities saved and ready for use in other notebooks, Study and Mission nodes created successfully
+2025-05-04 16:51:48,607 - INFO - Saved 9 rows to C:\Users\QUCOON\Documents\Chisom_Personal_Doc\knowledge_graph\v0.0.3\nodes\MGene.csv
+2025-05-04 16:51:48,616 - INFO - Saved 3 rows to C:\Users\QUCOON\Documents\Chisom_Personal_Doc\knowledge_graph\v0.0.3\nodes\Gene.csv
+2025-05-04 16:51:48,625 - INFO - Saved 9 rows to C:\Users\QUCOON\Documents\Chisom_Personal_Doc\knowledge_graph\v0.0.3\rels\MGene-IS_ORTHOLOG_MGiG-Gene.csv
+2025-05-04 16:54:50,109 - INFO - Saved 3 rows to C:\Users\QUCOON\Documents\Chisom_Personal_Doc\NASA_KnowHax_2025\knowledge_graph\v0.0.1\nodes\Study.csv
+2025-05-04 16:54:50,126 - INFO - Saved 2 rows to C:\Users\QUCOON\Documents\Chisom_Personal_Doc\NASA_KnowHax_2025\knowledge_graph\v0.0.1\nodes\Mission.csv
+2025-05-04 16:54:51,531 - INFO - Utilities saved and ready for use in other notebooks, Study and Mission nodes created successfully
+2025-05-04 16:56:05,281 - INFO - Saved 3 rows to C:\Users\QUCOON\Documents\Chisom_Personal_Doc\NASA_KnowHax_2025\knowledge_graph\v0.0.1\nodes\Study.csv
+2025-05-04 16:56:05,293 - INFO - Saved 2 rows to C:\Users\QUCOON\Documents\Chisom_Personal_Doc\NASA_KnowHax_2025\knowledge_graph\v0.0.1\nodes\Mission.csv
+2025-05-04 16:56:05,931 - INFO - Utilities saved and ready for use in other notebooks, Study and Mission nodes created successfully
+2025-05-04 17:12:29,544 - WARNING - Permission denied at C:\Users\QUCOON\Documents\Chisom_Personal_Doc\NASA_KnowHax_2025\knowledge_graph\v0.0.3\nodes\Study.csv. Saved to C:\Users\QUCOON\Documents\Chisom_Personal_Doc\NASA_KnowHax_2025\notebook\backup_data\Study.csv instead.
+2025-05-04 17:12:29,562 - INFO - Saved 2 rows to C:\Users\QUCOON\Documents\Chisom_Personal_Doc\NASA_KnowHax_2025\knowledge_graph\v0.0.3\nodes\Mission.csv
+2025-05-04 17:12:35,279 - INFO - Utilities saved and ready for use in other notebooks, Study and Mission nodes created successfully
+2025-05-04 17:19:42,866 - INFO - Saved 3 rows to Study.csv
+2025-05-04 17:19:42,874 - INFO - Saved 2 rows to Mission.csv
+2025-05-04 17:19:44,940 - INFO - Utilities saved and ready for use in other notebooks, Study and Mission nodes created successfully
+2025-05-04 18:10:29,111 - INFO - Saved 3 rows to Study.csv
+2025-05-04 18:10:29,129 - INFO - Saved 2 rows to Mission.csv
+2025-05-04 18:10:31,369 - INFO - Utilities saved and ready for use in other notebooks, Study and Mission nodes created successfully

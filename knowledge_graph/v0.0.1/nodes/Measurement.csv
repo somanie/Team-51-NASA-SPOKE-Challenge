@@ -1,0 +1,4 @@
+identifier,name,value,reference_range,assay_id,target_id
+OSD-557_oct_retinal_thickness,Retinal Thickness,263.2 μm,200-300 μm,OSD-557_oct,UBERON:0000966
+OSD-568_oct_retinal_thickness,Retinal Thickness,237.3 μm,200-300 μm,OSD-568_oct,UBERON:0000966
+OSD-679_oct_retinal_thickness,Retinal Thickness,237.6 μm,200-300 μm,OSD-679_oct,UBERON:0000966

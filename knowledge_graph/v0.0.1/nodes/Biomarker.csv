@@ -1,0 +1,10 @@
+identifier,name,category,fold_change
+OSD-557_homocysteine,Homocysteine,Biomarker,2.54
+OSD-557_cystathionine,Cystathionine,Biomarker,1.77
+OSD-557_methylcitric_acid,Methylcitric Acid,Biomarker,2.43
+OSD-568_homocysteine,Homocysteine,Biomarker,1.45
+OSD-568_cystathionine,Cystathionine,Biomarker,1.85
+OSD-568_methylcitric_acid,Methylcitric Acid,Biomarker,1.43
+OSD-679_homocysteine,Homocysteine,Biomarker,1.52
+OSD-679_cystathionine,Cystathionine,Biomarker,1.91
+OSD-679_methylcitric_acid,Methylcitric Acid,Biomarker,2.59

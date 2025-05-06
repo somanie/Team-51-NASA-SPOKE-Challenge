@@ -1,0 +1,16 @@
+from,to,effect_size,p_value
+OSD-557,OSD-557_optic_disc_edema,1.61,0.05
+OSD-557,OSD-557_chorioretinal_folds,0.65,0.05
+OSD-557,OSD-557_globe_flattening,1.21,0.05
+OSD-557,OSD-557_gray_matter_reduction,0.24,0.05
+OSD-557,OSD-557_csf_volume_decrease,0.34,0.05
+OSD-568,OSD-568_optic_disc_edema,1.17,0.05
+OSD-568,OSD-568_chorioretinal_folds,1.84,0.05
+OSD-568,OSD-568_globe_flattening,0.44,0.05
+OSD-568,OSD-568_gray_matter_reduction,1.65,0.05
+OSD-568,OSD-568_csf_volume_decrease,1.82,0.05
+OSD-679,OSD-679_optic_disc_edema,1.03,0.05
+OSD-679,OSD-679_chorioretinal_folds,0.73,0.05
+OSD-679,OSD-679_globe_flattening,1.32,0.05
+OSD-679,OSD-679_gray_matter_reduction,1.16,0.05
+OSD-679,OSD-679_csf_volume_decrease,0.39,0.05

@@ -1,0 +1,10 @@
+identifier,name,category,odds_ratio
+OSD-557_co2,Co2,Environmental,2.96
+OSD-557_radiation,Radiation,Environmental,3.27
+OSD-557_microgravity,Microgravity,Environmental,2.31
+OSD-568_co2,Co2,Environmental,1.73
+OSD-568_radiation,Radiation,Environmental,3.89
+OSD-568_microgravity,Microgravity,Environmental,3.72
+OSD-679_co2,Co2,Environmental,3.72
+OSD-679_radiation,Radiation,Environmental,1.39
+OSD-679_microgravity,Microgravity,Environmental,1.51

@@ -1,0 +1,16 @@
+identifier,name,category,effect_size
+OSD-557_optic_disc_edema,Optic Disc Edema,Eye,1.61
+OSD-557_chorioretinal_folds,Chorioretinal Folds,Eye,0.65
+OSD-557_globe_flattening,Globe Flattening,Eye,1.21
+OSD-557_gray_matter_reduction,Gray Matter Reduction,Brain,0.24
+OSD-557_csf_volume_decrease,Csf Volume Decrease,Brain,0.34
+OSD-568_optic_disc_edema,Optic Disc Edema,Eye,1.17
+OSD-568_chorioretinal_folds,Chorioretinal Folds,Eye,1.84
+OSD-568_globe_flattening,Globe Flattening,Eye,0.44
+OSD-568_gray_matter_reduction,Gray Matter Reduction,Brain,1.65
+OSD-568_csf_volume_decrease,Csf Volume Decrease,Brain,1.82
+OSD-679_optic_disc_edema,Optic Disc Edema,Eye,1.03
+OSD-679_chorioretinal_folds,Chorioretinal Folds,Eye,0.73
+OSD-679_globe_flattening,Globe Flattening,Eye,1.32
+OSD-679_gray_matter_reduction,Gray Matter Reduction,Brain,1.16
+OSD-679_csf_volume_decrease,Csf Volume Decrease,Brain,0.39

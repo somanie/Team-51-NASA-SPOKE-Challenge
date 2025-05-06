@@ -1,0 +1,120 @@
+2025-05-04 10:09:50,279 - nasa_data_processor - INFO - Processing complete!
+2025-05-04 10:11:22,893 - nasa_data_processor - INFO - Processing complete!
+2025-05-04 10:11:52,498 - nasa_data_processor - INFO - Processing complete!
+2025-05-04 10:12:07,941 - nasa_data_processor - INFO - Processing complete!
+2025-05-04 10:22:48,737 - nasa_data_processor - INFO - Starting NASA data processing pipeline
+2025-05-04 10:23:08,899 - nasa_data_processor - INFO - Using data directory: C:\Users\QUCOON\Documents\Chisom_Personal_Doc\NASA_KnowHax_2025\notebook\processed
+2025-05-04 10:23:08,959 - nasa_data_processor - INFO - Found 17 unique dataset IDs in manifest
+2025-05-04 10:23:08,959 - nasa_data_processor - INFO - Processing dataset: OSD-100
+2025-05-04 10:23:10,381 - nasa_data_processor - WARNING - Unexpected mission data format for OSD-100: <class 'dict'>
+2025-05-04 10:23:10,381 - nasa_data_processor - INFO - Converted mission data to list for OSD-100
+2025-05-04 10:23:10,381 - nasa_data_processor - INFO - Processing dataset: OSD-162
+2025-05-04 10:23:11,576 - nasa_data_processor - WARNING - Unexpected mission data format for OSD-162: <class 'dict'>
+2025-05-04 10:23:11,588 - nasa_data_processor - INFO - Converted mission data to list for OSD-162
+2025-05-04 10:30:41,638 - nasa_data_processor - INFO - ==================================================
+2025-05-04 10:30:41,640 - nasa_data_processor - INFO - Starting NASA data processing pipeline
+2025-05-04 10:30:41,642 - nasa_data_processor - INFO - ==================================================
+2025-05-04 10:30:52,864 - nasa_data_processor - INFO - Using data directory: C:\Users\QUCOON\Documents\Chisom_Personal_Doc\NASA_KnowHax_2025\notebook\processed
+2025-05-04 10:30:52,866 - nasa_data_processor - INFO - Environment setup complete - Nodes: nodes, Relationships: relationships
+2025-05-04 10:30:52,870 - nasa_data_processor - INFO - Fetching study metadata...
+2025-05-04 10:30:52,910 - nasa_data_processor - INFO - Found 17 unique dataset IDs in manifest
+2025-05-04 10:30:52,910 - nasa_data_processor - INFO - Processing dataset: OSD-100
+2025-05-04 10:30:54,045 - nasa_data_processor - WARNING - Unexpected mission data format for OSD-100: <class 'dict'>
+2025-05-04 10:30:54,057 - nasa_data_processor - INFO - Converted mission data to list for OSD-100
+2025-05-04 10:30:54,059 - nasa_data_processor - INFO - Processing dataset: OSD-162
+2025-05-04 10:30:55,259 - nasa_data_processor - WARNING - Unexpected mission data format for OSD-162: <class 'dict'>
+2025-05-04 10:30:55,259 - nasa_data_processor - INFO - Converted mission data to list for OSD-162
+2025-05-04 10:30:55,259 - nasa_data_processor - ERROR - Error processing dataset OSD-162: 'list' object has no attribute 'replace'
+2025-05-04 10:30:55,259 - nasa_data_processor - INFO - Processing dataset: OSD-397
+2025-05-04 10:30:56,417 - nasa_data_processor - WARNING - Unexpected mission data format for OSD-397: <class 'dict'>
+2025-05-04 10:30:56,417 - nasa_data_processor - INFO - Converted mission data to list for OSD-397
+2025-05-04 10:30:56,417 - nasa_data_processor - INFO - Processing dataset: OSD-194
+2025-05-04 10:30:57,562 - nasa_data_processor - WARNING - Unexpected mission data format for OSD-194: <class 'dict'>
+2025-05-04 10:30:57,562 - nasa_data_processor - INFO - Converted mission data to list for OSD-194
+2025-05-04 10:30:57,562 - nasa_data_processor - INFO - Processing dataset: OSD-203
+2025-05-04 10:30:58,691 - nasa_data_processor - WARNING - Unexpected mission data format for OSD-203: <class 'dict'>
+2025-05-04 10:30:58,691 - nasa_data_processor - INFO - Converted mission data to list for OSD-203
+2025-05-04 10:30:58,691 - nasa_data_processor - INFO - Processing dataset: OSD-557
+2025-05-04 10:30:59,828 - nasa_data_processor - WARNING - Unexpected mission data format for OSD-557: <class 'dict'>
+2025-05-04 10:30:59,828 - nasa_data_processor - INFO - Converted mission data to list for OSD-557
+2025-05-04 10:30:59,828 - nasa_data_processor - INFO - Processing dataset: OSD-568
+2025-05-04 10:31:00,971 - nasa_data_processor - WARNING - Unexpected mission data format for OSD-568: <class 'dict'>
+2025-05-04 10:31:00,971 - nasa_data_processor - INFO - Converted mission data to list for OSD-568
+2025-05-04 10:31:00,971 - nasa_data_processor - INFO - Processing dataset: OSD-583
+2025-05-04 10:31:02,085 - nasa_data_processor - WARNING - Unexpected mission data format for OSD-583: <class 'dict'>
+2025-05-04 10:31:02,085 - nasa_data_processor - INFO - Converted mission data to list for OSD-583
+2025-05-04 10:31:02,085 - nasa_data_processor - INFO - Processing dataset: OSD-255
+2025-05-04 10:31:03,219 - nasa_data_processor - WARNING - Unexpected mission data format for OSD-255: <class 'dict'>
+2025-05-04 10:31:03,221 - nasa_data_processor - INFO - Converted mission data to list for OSD-255
+2025-05-04 10:31:03,223 - nasa_data_processor - INFO - Processing dataset: OSD-680
+2025-05-04 10:31:04,361 - nasa_data_processor - WARNING - Unexpected mission data format for OSD-680: <class 'dict'>
+2025-05-04 10:31:04,361 - nasa_data_processor - INFO - Converted mission data to list for OSD-680
+2025-05-04 10:31:04,377 - nasa_data_processor - INFO - Processing dataset: OSD-681
+2025-05-04 10:31:05,500 - nasa_data_processor - WARNING - Unexpected mission data format for OSD-681: <class 'dict'>
+2025-05-04 10:31:05,503 - nasa_data_processor - INFO - Converted mission data to list for OSD-681
+2025-05-04 10:31:05,504 - nasa_data_processor - INFO - Processing dataset: OSD-715
+2025-05-04 10:31:06,641 - nasa_data_processor - WARNING - Unexpected mission data format for OSD-715: <class 'dict'>
+2025-05-04 10:31:06,643 - nasa_data_processor - INFO - Converted mission data to list for OSD-715
+2025-05-04 10:31:06,646 - nasa_data_processor - INFO - Processing dataset: OSD-87
+2025-05-04 10:31:07,764 - nasa_data_processor - WARNING - Unexpected mission data format for OSD-87: <class 'dict'>
+2025-05-04 10:31:07,780 - nasa_data_processor - INFO - Converted mission data to list for OSD-87
+2025-05-04 10:31:07,782 - nasa_data_processor - INFO - Processing dataset: OSD-758
+2025-05-04 10:31:09,037 - nasa_data_processor - WARNING - Attempt 1 failed for https://visualization.osdr.nasa.gov/biodata/api/v2/dataset/OSD-758/?format=json: 422 Client Error: UNPROCESSABLE ENTITY for url: https://visualization.osdr.nasa.gov/biodata/api/v2/dataset/OSD-758/?format=json. Retrying in 1s...
+2025-05-04 10:31:11,282 - nasa_data_processor - WARNING - Attempt 2 failed for https://visualization.osdr.nasa.gov/biodata/api/v2/dataset/OSD-758/?format=json: 422 Client Error: UNPROCESSABLE ENTITY for url: https://visualization.osdr.nasa.gov/biodata/api/v2/dataset/OSD-758/?format=json. Retrying in 2s...
+2025-05-04 10:31:14,535 - nasa_data_processor - ERROR - All 3 attempts failed for https://visualization.osdr.nasa.gov/biodata/api/v2/dataset/OSD-758/?format=json
+2025-05-04 10:31:14,543 - nasa_data_processor - WARNING - No data returned for OSD-758
+2025-05-04 10:31:14,543 - nasa_data_processor - WARNING - No metadata found for OSD-758, creating placeholder
+2025-05-04 10:31:14,543 - nasa_data_processor - INFO - Processing dataset: OSD-759
+2025-05-04 10:31:15,806 - nasa_data_processor - WARNING - Attempt 1 failed for https://visualization.osdr.nasa.gov/biodata/api/v2/dataset/OSD-759/?format=json: 422 Client Error: UNPROCESSABLE ENTITY for url: https://visualization.osdr.nasa.gov/biodata/api/v2/dataset/OSD-759/?format=json. Retrying in 1s...
+2025-05-04 10:31:17,967 - nasa_data_processor - WARNING - Attempt 2 failed for https://visualization.osdr.nasa.gov/biodata/api/v2/dataset/OSD-759/?format=json: 422 Client Error: UNPROCESSABLE ENTITY for url: https://visualization.osdr.nasa.gov/biodata/api/v2/dataset/OSD-759/?format=json. Retrying in 2s...
+2025-05-04 10:31:21,136 - nasa_data_processor - ERROR - All 3 attempts failed for https://visualization.osdr.nasa.gov/biodata/api/v2/dataset/OSD-759/?format=json
+2025-05-04 10:31:21,140 - nasa_data_processor - WARNING - No data returned for OSD-759
+2025-05-04 10:31:21,142 - nasa_data_processor - WARNING - No metadata found for OSD-759, creating placeholder
+2025-05-04 10:31:21,145 - nasa_data_processor - INFO - Processing dataset: OSD-679
+2025-05-04 10:31:22,261 - nasa_data_processor - WARNING - Unexpected mission data format for OSD-679: <class 'dict'>
+2025-05-04 10:31:22,261 - nasa_data_processor - INFO - Converted mission data to list for OSD-679
+2025-05-04 10:31:22,261 - nasa_data_processor - INFO - Processing dataset: OSD-83
+2025-05-04 10:31:23,401 - nasa_data_processor - WARNING - Unexpected mission data format for OSD-83: <class 'dict'>
+2025-05-04 10:31:23,401 - nasa_data_processor - INFO - Converted mission data to list for OSD-83
+2025-05-04 10:31:23,401 - nasa_data_processor - INFO - Processed 17 studies: 14 successful, 3 with placeholders
+2025-05-04 10:31:23,401 - nasa_data_processor - INFO - Creating mission nodes...
+2025-05-04 10:31:23,413 - nasa_data_processor - WARNING - Could not parse start date '9/21/14' for mission SpaceX-4
+2025-05-04 10:31:23,416 - nasa_data_processor - WARNING - Could not parse end date '10/25/14' for mission SpaceX-4
+2025-05-04 10:31:23,418 - nasa_data_processor - WARNING - Could not parse start date '04/08/2016' for mission SpaceX-8
+2025-05-04 10:31:23,420 - nasa_data_processor - WARNING - Could not parse end date '05/11/2016' for mission SpaceX-8
+2025-05-04 10:31:23,423 - nasa_data_processor - WARNING - Could not parse start date '08/14/2017' for mission SpaceX-12
+2025-05-04 10:31:23,425 - nasa_data_processor - WARNING - Could not parse end date '09/17/2017' for mission SpaceX-12
+2025-05-04 10:31:23,425 - nasa_data_processor - WARNING - Could not parse start date '07/08/2011' for mission STS-135
+2025-05-04 10:31:23,425 - nasa_data_processor - WARNING - Could not parse end date '07/21/2011' for mission STS-135
+2025-05-04 10:31:23,433 - nasa_data_processor - WARNING - Could not parse start date '26-Oct-2012' for mission Expedition-33/34
+2025-05-04 10:31:23,437 - nasa_data_processor - WARNING - Could not parse end date '24-Dec-2012' for mission Expedition-33/34
+2025-05-04 10:31:23,480 - nasa_data_processor - INFO - Created 12 unique mission nodes
+2025-05-04 10:31:23,488 - nasa_data_processor - INFO - Created backup of existing file: nodes\missions.bak.csv
+2025-05-04 10:31:23,500 - nasa_data_processor - INFO - Saved 12 rows to nodes\missions.csv
+2025-05-04 10:31:23,500 - nasa_data_processor - INFO - Creating study nodes...
+2025-05-04 10:31:23,500 - nasa_data_processor - INFO - Created 17 study nodes
+2025-05-04 10:31:23,515 - nasa_data_processor - INFO - Created backup of existing file: nodes\studies.bak.csv
+2025-05-04 10:31:23,527 - nasa_data_processor - INFO - Saved 17 rows to nodes\studies.csv
+2025-05-04 10:31:23,527 - nasa_data_processor - INFO - Creating mission-study relationships...
+2025-05-04 10:31:23,531 - nasa_data_processor - INFO - Created 17 mission-study relationships
+2025-05-04 10:31:23,535 - nasa_data_processor - INFO - Created backup of existing file: relationships\mission_study_rels.bak.csv
+2025-05-04 10:31:23,535 - nasa_data_processor - INFO - Saved 17 rows to relationships\mission_study_rels.csv
+2025-05-04 10:31:23,535 - nasa_data_processor - INFO - ==================================================
+2025-05-04 10:31:23,548 - nasa_data_processor - INFO - Processing complete! Elapsed time: 0 minutes, 41 seconds
+2025-05-04 10:31:23,549 - nasa_data_processor - INFO - Created 12 Mission nodes
+2025-05-04 10:31:23,549 - nasa_data_processor - INFO - Created 17 Study nodes
+2025-05-04 10:31:23,549 - nasa_data_processor - INFO - Created 17 Mission-Study relationships
+2025-05-04 10:31:23,549 - nasa_data_processor - INFO - Files saved to: nodes and relationships
+2025-05-04 10:31:23,549 - nasa_data_processor - INFO - ==================================================
+2025-05-04 11:26:38,216 - nasa_kg - INFO - Starting NASA KG processing - version v0.0.1
+2025-05-04 11:26:38,224 - nasa_kg - INFO - Created directory structure at ..\knowledge_graph/v0.0.1
+2025-05-04 11:27:45,363 - nasa_kg - INFO - Processing 17 datasets
+2025-05-04 11:28:03,723 - nasa_kg - WARNING - Error fetching https://visualization.osdr.nasa.gov/biodata/api/v2/dataset/OSD-758/?format=json: 422 Client Error: UNPROCESSABLE ENTITY for url: https://visualization.osdr.nasa.gov/biodata/api/v2/dataset/OSD-758/?format=json
+2025-05-04 11:28:05,044 - nasa_kg - WARNING - Error fetching https://visualization.osdr.nasa.gov/biodata/api/v2/dataset/OSD-759/?format=json: 422 Client Error: UNPROCESSABLE ENTITY for url: https://visualization.osdr.nasa.gov/biodata/api/v2/dataset/OSD-759/?format=json
+2025-05-04 11:28:07,928 - nasa_kg - INFO - Created node files in ..\knowledge_graph\v0.0.1\nodes
+2025-05-04 11:28:07,944 - nasa_kg - INFO - Created relationship files in ..\knowledge_graph\v0.0.1\relationships
+2025-05-04 11:28:07,944 - nasa_kg - INFO - Processing complete in 89 seconds
+2025-05-04 11:43:42,326 - nasa_kg - INFO - Starting NASA KG processing - version v0.0.1
+2025-05-04 11:44:09,511 - nasa_kg - INFO - Processing 17 datasets
+2025-05-04 11:44:27,311 - nasa_kg - WARNING - Error fetching https://visualization.osdr.nasa.gov/biodata/api/v2/dataset/OSD-758/?format=json: 422 Client Error: UNPROCESSABLE ENTITY for url: https://visualization.osdr.nasa.gov/biodata/api/v2/dataset/OSD-758/?format=json
+2025-05-04 11:44:28,634 - nasa_kg - WARNING - Error fetching https://visualization.osdr.nasa.gov/biodata/api/v2/dataset/OSD-759/?format=json: 422 Client Error: UNPROCESSABLE ENTITY for url: https://visualization.osdr.nasa.gov/biodata/api/v2/dataset/OSD-759/?format=json

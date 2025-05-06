@@ -1,0 +1,10 @@
+identifier,name,description,resolution,type,category,target_eye_id,target_retina_id,target_brain_id
+OSD-557_oct,Optical Coherence Tomography,Non-invasive imaging technique using light waves,5-10 μm,non-omics,SANS,UBERON:0000970,UBERON:0000966,
+OSD-557_mri,Magnetic Resonance Imaging,Uses magnetic fields to generate images,1-2 mm,non-omics,SANS,,,UBERON:0000955
+OSD-557_iop,Tonometry,Measures intraocular pressure,1 mmHg,non-omics,SANS,UBERON:0000970,,
+OSD-568_oct,Optical Coherence Tomography,Non-invasive imaging technique using light waves,5-10 μm,non-omics,SANS,UBERON:0000970,UBERON:0000966,
+OSD-568_mri,Magnetic Resonance Imaging,Uses magnetic fields to generate images,1-2 mm,non-omics,SANS,,,UBERON:0000955
+OSD-568_iop,Tonometry,Measures intraocular pressure,1 mmHg,non-omics,SANS,UBERON:0000970,,
+OSD-679_oct,Optical Coherence Tomography,Non-invasive imaging technique using light waves,5-10 μm,non-omics,SANS,UBERON:0000970,UBERON:0000966,
+OSD-679_mri,Magnetic Resonance Imaging,Uses magnetic fields to generate images,1-2 mm,non-omics,SANS,,,UBERON:0000955
+OSD-679_iop,Tonometry,Measures intraocular pressure,1 mmHg,non-omics,SANS,UBERON:0000970,,

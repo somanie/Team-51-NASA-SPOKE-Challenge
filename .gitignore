@@ -1,0 +1,10 @@
+/data
+data
+/processed
+processed
+.env
+/.env
+/kg_processing.log
+/nasa_data_extraction.log
+/data_processing.log
+/nasa_kg.log

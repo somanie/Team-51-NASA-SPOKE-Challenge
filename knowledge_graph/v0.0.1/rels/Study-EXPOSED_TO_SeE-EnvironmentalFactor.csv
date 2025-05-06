@@ -1,0 +1,10 @@
+from,to,odds_ratio
+OSD-557,OSD-557_co2,2.96
+OSD-557,OSD-557_radiation,3.27
+OSD-557,OSD-557_microgravity,2.31
+OSD-568,OSD-568_co2,1.73
+OSD-568,OSD-568_radiation,3.89
+OSD-568,OSD-568_microgravity,3.72
+OSD-679,OSD-679_co2,3.72
+OSD-679,OSD-679_radiation,1.39
+OSD-679,OSD-679_microgravity,1.51
